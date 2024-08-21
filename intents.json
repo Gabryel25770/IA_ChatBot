@@ -187,7 +187,7 @@
     {
       "tag": "20_transporteDiarias",
       "patterns": [
-        "Posso solicitar recursos de transporte e diárias para viagens?"
+        "Posso solicitar recursos de transporte e diárias para viagens? "
       ],
       "responses": [
         "As propostas aprovadas recebem automaticamente Benefícios Complementares (BC) de R$ 16.000,00/ano para cobrirem despesas com a participação em reuniões científicas ou tecnológicas e estágios de pesquisa de curta duração fora do estado de São Paulo. Além desse valor, caso esteja plenamente justificado na proposta, poderão ser concedidos recursos adicionais para pesquisa de campo essenciais ao projeto; note que isso não se aplica a reuniões comerciais, eventos de marketing, pesquisa de mercado, etc."
